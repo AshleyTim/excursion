@@ -1,9 +1,9 @@
 body {
 background: black;
+font-family: Verdana;
 }
 
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -14,16 +14,14 @@ a {
   color: Aquamarine;
   color: 16px;
   text-align: center;
-  font-family: Verdana;
 }
 
-video {
+video, img, a {
   display: block;
   margin: 0 auto;
 }
 
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
@@ -32,18 +30,12 @@ h2 {
 
 #descriptor {
   color: grey;
-  font-family: Verdana;
   font-size: 21px;
   text-align: center;
-}
-img {
-  display: block;
-  margin: 0 auto;
 }
 
 #copyright {
   text-align: right;
   color: grey;
-  font-family: Verdana;
   font-size: 21px;
 }
