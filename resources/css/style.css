@@ -1,4 +1,4 @@
-body{
+body {
 background: black;
 }
 
@@ -10,9 +10,40 @@ h1 {
   text-align: center;
 }
 
-a{
+a {
   color: Aquamarine;
   color: 16px;
   text-align: center;
   font-family: Verdana;
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+#descriptor {
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#copyright {
+  text-align: right;
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
 }
